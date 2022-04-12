@@ -1,0 +1,28 @@
+{
+  "name": "probot-hello",
+  "version": "1.0.0",
+  "description": "An example probot app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trianglium/ci-probot.git"
+  },
+  "keywords": [
+    "probot"
+  ],
+  "author": "Jordan Brocker Rudow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trianglium/ci-probot/issues"
+  },
+  "homepage": "https://github.com/Trianglium/ci-probot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "probot": "^12.2.2"
+  }
+}
